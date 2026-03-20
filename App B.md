@@ -4,6 +4,7 @@
 ---
 
 <h1 id="appendix-b-transport-of-the-contaminated-patient">Appendix B: Transport of the Contaminated Patient</h1>
+<h2 id="all">ALL</h2>
 <p><strong>I. HISTORICAL FINDINGS</strong></p>
 <pre><code>A. Patient had direct contact or exposure to a known hazardous material, toxin, or an unknown potentially hazardous substance.
 </code></pre>
